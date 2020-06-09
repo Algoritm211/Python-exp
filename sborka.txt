@@ -1,0 +1,9 @@
+#сборка приложения с настройками по умолчанию
+pyinstaller texteditor.py
+
+#без консоли
+pyinstaller -w texteditor.py
+
+
+#со своей картинкой
+pyinstaller -w -i '/Users/alexfrost/Desktop/Python projects/Text Editor/texteditor.ico' texteditor.py

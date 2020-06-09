@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "physic-lab",
+  "private_key_id": "8c960b266191cb1ae3b6441795f79f2072376ece",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkcvlr7ENmxHTj\nAODGvRUePEwqoMx6UrMDznPcpCsExj6mfv4RzlNnR61gV5jlVE+vRMgkfChmdctT\nOxTsW47ec/fWiIZ04ZVdChyOELX5kwuZC9HuH+kyHgWoBdof0MPtJCYHcmgBH0TT\n0aO4BSprESNpO0cREyPL9SeZ2+5lmY6Gn/l5vteBsav4akh4X9ezFf4Y1L1JmTJi\nZdodeRFFd7puGZ0LGexCCT1Si2X1ob6xyI2e4eedr0NPBY5wP195uzWFrxsjcCs3\nFLsy52VeRC8RUyLSij+X86BGGZz4pl/ddwzbuiTjLocSQKsjIwNU7fYpMH5cEz6V\nyeyrsTiJAgMBAAECggEAG7MeHjait8m5oo8ATZmF2Bzx+3AwYR5S9v4sd+rTMC+w\nV90mMJufYtMo+gRnRaGo9m3QhIzBRVjsEa3u/U0CyKeiBGnktAVXYl+Upb1c2ZgS\nKQpbpw+K+R0jeMTbk+ZXSjd/jFuR9zZsIn26ZQHBvl0ZqN0KQG8H5Y/6xqjMBCLP\nRfc3sxrXLofqPGhOnK+Lqa23W3VyZxzXAkl3w8X8u+uLWm73d6okvFG4MPEP9fFX\nP/Uk6kKa7osWBVtZjaDD3xXqLIumdZgrWIPlTCCKb8FO5G6NIJNsUp08wcGYqbbD\nXMmwGYZJUjIy/636k5L6nn3kRc+WN5Mq/aZj+SvKPQKBgQDPQP5PeWXe4Hd8GE/V\nl4Hgcnhotc1xpR8riSQLoaPH21P1a6G6bzOJ3XqlGwkQNr4OBrtlmuvv6z2DEcSG\ndQ5q9vJBVRqY/p8almM0TpdH5cwKItmpAa+xnYSb+mcooW/atKFEnFI0AbOBH25O\nK8jM238q+wVF54RMdLHo5Vrr+wKBgQDLIKeJ/bD4+BLQn+BPR/fobbBp1Lxwkm3H\ngy+fv89uVgbv+28lCP9CK6MPWrTYnAzfOlAuCR7HRZZyy8BHkfIBJzXrh27BDdH+\ndCOPGctETs1I5/KcLmQ3PrGKr1C4Tgr3c+bOgRKUjFYNlL0FnjH5CCKkOildWP/H\nF4fNPahiSwKBgAspywjo1w3cNVNf090DXiGCyO2K7VfztuwXZPOjbzjynWEYvQtX\ntgT1AwglnqVa7X2/6xQb9h1kJFoM+PLtFyu3xXCzbs1S2asK8qj8mrVqsUTSf7rU\ntmvwuhXUtP3BRE8Zb55MdTkL5mlMEhrvzM8L+5uLDcuoHr4ngvWydOVFAoGBAK0F\n07Am+GgaZ2xtwpPFqdXCGVMMcrcxA3G+vQJGUFqbzKz+b14Mm+GxaePaT9Fym0RK\nV6HfAuiazdxa0h4kow94ZuWJJz4ql4U3SFLMlehJd3Nyn6WJnrOwI2sOiqNzVsQR\nZbjhGQKPx30qBRiT9904oMljAXkSJk1gLb0VmCihAoGAZCGIB0Xym1MjEfmvNTzP\nkoxqTzwMicy2GCUJRA/1N7Jbb3fnircu2Px1DG3SUjut5p+Vh1+u9cIscCG9V1Wl\nIMV0xycxwuEIsN7LS3LaKblaU58kPR5BrpjU52pWF89Xy/vs4wjO+VFmxtijln3r\n617sS6bBnveBPbc4t6+zx5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "algoritm211@physic-lab.iam.gserviceaccount.com",
+  "client_id": "101776482017636706976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/algoritm211%40physic-lab.iam.gserviceaccount.com"
+}
